@@ -12,9 +12,10 @@
 [I can't code without the safety of monads](https://github.com/pre63/exalted.future)
 
 
+[I've contributed 1 programming lanuguage](https://github.com/calebh/Juniper)
 
 
-
+[I've written a small trebuchet to show everyone that it's not only about the tools, you also need the skills, institutional knowledge, organizational will to use it](https://github.com/pre63/couillard)
 
 <!--
 **pre63/pre63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
