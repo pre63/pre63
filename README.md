@@ -1,4 +1,4 @@
-### Hi there λ
+### λ
 
 [I can't spell](https://gist.github.com/pre63/3929fce63c2447daec8c341507cdadaa)
 
