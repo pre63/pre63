@@ -1,4 +1,4 @@
-### λ
+### λ + 🤖
 
 [I can't spell](https://gist.github.com/pre63/3929fce63c2447daec8c341507cdadaa)
 
@@ -7,9 +7,6 @@
 
 
 [I don't understand *nix without fish](https://fishshell.com/)
-
-
-[I can't code without the safety of monads](https://github.com/pre63/exalted.future)
 
 
 [I've contributed to 1 programming lanuguage](https://github.com/calebh/Juniper/commits?author=pre63)
